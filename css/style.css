@@ -37,4 +37,5 @@ button {
     margin-top: 15px;
     color: #fff;
     border: none;
+    text-transform: uppercase;
 }
