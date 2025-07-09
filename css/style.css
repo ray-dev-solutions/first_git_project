@@ -28,3 +28,13 @@ p {
     font-family: 'Courier New', Courier, monospace;
     color: var(--clr-light);
 }
+
+button {
+    background: blueviolet;
+    padding: 8px 15px;
+    font-size: 18px;
+    border-radius: 2px;
+    margin-top: 15px;
+    color: #fff;
+    border: none;
+}
