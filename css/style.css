@@ -14,16 +14,17 @@ body {
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
+    background: var(--clr-dark);
 }
 
 h1 {
     font-size: calc(5vw + 15px);
-    color: var(--clr-dark);
+    color: var(--clr-light-text);
     text-align: center;
     margin-bottom: 5vw;
 }
 p {
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
-    color: var(--clr-light-text);
+    color: var(--clr-light);
 }
