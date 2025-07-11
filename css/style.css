@@ -46,6 +46,7 @@ button {
     margin: 0 2rem;
     gap: 20px;
 }
+
 .half {
     flex: 1;
     flex-basis: 350px;
